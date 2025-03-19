@@ -1,0 +1,11 @@
+{
+    "name": "Raisa",
+    "party": "NCP",
+    "age": 16,
+    "votes": [
+        {
+            "user": "61f2b4b1-3b3b-4b3b-8b3b-3b3b3b3b3b3b",
+            "votedAt": "2021-09-01T12:00:00Z"
+        }
+    ]
+}
